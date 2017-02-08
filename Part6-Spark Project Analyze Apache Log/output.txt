@@ -1,0 +1,32 @@
+•••••••••••••••••••••••••••••••••••
+•••••START APACHE LOG ANALYZER•••••
+•••••••••••••••••••••••••••••••••••
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+≡≡≡≡≡≡≡≡HTTP RETURN STATUS≡≡≡≡≡≡≡≡≡
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+Error Resposnes: [(401,2)]
+Success Response: [(200,6)]
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+CLIENT IP ACCESS MORE THAN 10 TIMES
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+≡≡≡≡≡≡TOP 10 CONTENTS ACCESS≡≡≡≡≡≡≡
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+(/twiki/bin/oops/TWiki/AppendixFileSystem?template=oopsmore&param1=1.12&param2=1.12,1)
+(/twiki/bin/edit/Main/Double_bounce_sender?topicparent=Main.ConfigurationVariables,1)
+(/mailman/listinfo/hsdivision,1)
+(/twiki/bin/view/TWiki/WikiSyntax,1)
+(/twiki/bin/view/Main/DCCAndPostFix,1)
+(/twiki/bin/edit/Main/Header_checks?topicparent=Main.ConfigurationVariables,1)
+(/twiki/bin/rdiff/TWiki/NewUserTemplate?rev1=1.3&rev2=1.2,1)
+(/twiki/bin/view/Main/PeterThoeny,1)
+
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+≡≡≡≡AVERAGE OBJECT RETURN SIZE≡≡≡≡≡
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+(Size of the Object Returned Avg:	%s,8177)
+
+•••••END OF RESULT•••••
